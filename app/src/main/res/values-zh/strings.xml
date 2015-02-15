@@ -7,4 +7,15 @@
     <string name="action_update">升级</string>
     <string name="action_about">关于</string>
     <string name="action_exit">退出</string>
+
+    <!--左侧menu-->
+    <string-array name="left_menunames">
+        <item>配速计算器</item>
+        <item>配速转换器</item>
+        <item>完跑计算器</item>
+        <item>马拉松配速指南</item>
+        <item>年龄等级计算器</item>
+        <item>卡路里计算器</item>
+    </string-array>
+
 </resources>

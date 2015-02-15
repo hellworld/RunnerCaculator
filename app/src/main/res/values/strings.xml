@@ -5,10 +5,20 @@
     <string name="drawer_open">Open</string>
     <string name="drawer_close">Close</string>
 
-    <!--首页menu-->
+    <!--main menus-->
     <string name="action_settings">setting</string>
     <string name="action_update">update</string>
     <string name="action_about">about</string>
     <string name="action_exit">exit</string>
+
+    <!--left menus-->
+    <string-array name="left_menunames">
+        <item>Pace Calculator</item>
+        <item>Pace Converter</item>
+        <item>Finish Time</item>
+        <item>Marathon Pace</item>
+        <item>Age-graded</item>
+        <item>Calorie</item>
+    </string-array>
 
 </resources>
