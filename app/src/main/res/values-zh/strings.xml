@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">跑者计算器</string>
+
+    <!--首页menu-->
+    <string name="action_settings">设置</string>
+    <string name="action_update">升级</string>
+    <string name="action_about">关于</string>
+    <string name="action_exit">退出</string>
+</resources>

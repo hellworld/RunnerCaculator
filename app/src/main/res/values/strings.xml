@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RunnerCalculator</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <!--首页menu-->
+    <string name="action_settings">setting</string>
+    <string name="action_update">update</string>
+    <string name="action_about">about</string>
+    <string name="action_exit">exit</string>
+
+</resources>
